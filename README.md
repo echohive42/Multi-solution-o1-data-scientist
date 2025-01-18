@@ -1,6 +1,7 @@
 # O1 Data Scientist - Automated ML Solution Generator
 
-⚠️ **WARNING: API COST NOTICE** ⚠️
+⚠️ **WARNING: API COST & CODE AUTO EXECUTION NOTICE** ⚠️
+THIS SCRIPT AUTO EXECUTES AI GENERATED CODE IN YOUR MACHINE WITHOUT A SANDBOX. USE IT WITH CAUTION.
 This tool can consume a significant number of tokens due to multiple solutions and parallel error correcting
 Please monitor your token usage carefully and adjust the parameters (MAX_ITERATIONS, HOW_MANY_SOLUTIONS) according to your budget.
 
