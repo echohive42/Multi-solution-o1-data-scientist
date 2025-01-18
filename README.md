@@ -23,7 +23,7 @@ See exactly how this automation system was created step by step, with detailed e
 
 ## ❤️ Support & Get 400+ AI Projects
 
-This is one of 400+ fascinating projects in my collection! [Support me on Patreon](https://www.patreon.com/c/echohive42/membership) to get:
+This is one of 400+ fascinating projects in my collection! [Join my AI community](https://www.patreon.com/c/echohive42/membership) to get:
 
 - 🎯 Access to 400+ AI projects (and growing daily!)
   - Including advanced projects like [2 Agent Real-time voice template with turn taking](https://www.patreon.com/posts/2-agent-real-you-118330397)
