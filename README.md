@@ -1,13 +1,7 @@
 # O1 Data Scientist - Automated ML Solution Generator
 
 ⚠️ **WARNING: API COST NOTICE** ⚠️
-This tool can consume a significant number of tokens due to:
-- Multiple iterations of solution generation
-- Multiple solutions per iteration
-- Error correction attempts
-- Large context windows with dataset samples
-- High reasoning effort setting
-
+This tool can consume a significant number of tokens due to multiple solutions and parallel error correcting
 Please monitor your token usage carefully and adjust the parameters (MAX_ITERATIONS, HOW_MANY_SOLUTIONS) according to your budget.
 
 ## Overview
